@@ -1,6 +1,7 @@
-## 18F Cloud Foundry Bosh Deployment Manifests and Concourse pipeline
+# cf-deployment-cffiles
+## Cloud Foundry Bosh Deployment Manifests and Concourse pipeline
 
-This repo contains the source for the Bosh deployment manifest and deployment pipeline for the 18F Cloud Foundry deployment.
+This repo contains the source for the Bosh deployment manifest and deployment pipeline for the Cloud Foundry deployment.
 
 ### How to generate the final manifest:
 
@@ -31,4 +32,3 @@ Run the certificate generation script. For more information use the `--help`
 flag.
 
 1. `./generate-all-certificates.sh`
-# cf-deployment-cffiles

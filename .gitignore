@@ -1,0 +1,23 @@
+# YAML property files
+manifest.yml
+cf-secrets.yml
+secrets.yml
+cf-secrets-staging.yml
+manifest-staging.yml
+manifest-staging.yml--
+credentials.yml
+credentials.dev.yml
+
+# Mac files
+.DS_Store
+
+# Eclipse files
+.project
+
+# Temporary directory
+tmp/
+
+# Certs
+
+*-certs
+jwt_*
